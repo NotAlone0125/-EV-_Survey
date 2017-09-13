@@ -1,0 +1,3 @@
+target '(EV)_Survey' do
+pod "Qiniu", "~> 7.1"
+end
